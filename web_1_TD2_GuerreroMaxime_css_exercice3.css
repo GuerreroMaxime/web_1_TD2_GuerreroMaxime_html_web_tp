@@ -1,0 +1,13 @@
+.ombre{
+ border: 5px solid black;
+ border-radius:20px;
+ padding:10px;
+ Box-shadow: 1px 2px 10px black inset;
+}
+
+.ombre2{
+ border: 5px solid left, red, orange, yellow, green, blue, indigo, violet;
+ border-radius:20px;
+ padding:10px;
+ Box-shadow: 1px 2px 10px black inset;
+}
